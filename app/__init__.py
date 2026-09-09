@@ -1,0 +1,1 @@
+"""VeriYaşam application package."""
